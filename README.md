@@ -1,4 +1,5 @@
-# CastlePaintShop
+# CastlePaintShop - 
+Site developed by: ordav3@gmail.com
 
 A web application called "Castle Paint Shop" that simulates online store that uses card components for it's products.
 
@@ -7,7 +8,7 @@ A web application called "Castle Paint Shop" that simulates online store that us
 1. Download the repository from GitHub:
 
 ```bash
-  git  https://github.com/Ordav3/React-project-HackerU
+  git  https://github.com/Ordav3/React-Cards-Project-HackerU
 ```
 
 2. The project directory is:
@@ -22,20 +23,17 @@ A web application called "Castle Paint Shop" that simulates online store that us
   npm i
 ```
 
-4. Run the server:
+4. To test the project use the following data: Open Mongodb compass- and import the json files from the "MongoDB data" folder into the collections.
+
+5. run the app:
 
 ```bash
   npm start
 ```
 
-5. Open Mongodb, and import the json files into the collections.
+**Login - bussines user example for check:
+User Name: VincentVG@gmail.com
+Password: Aa12345678!
 
-6. run the app:
-
-```bash
-  npm start
-```
-
-## Contact
-
-Site developed by: ordav3@gmail.com
+*** The server project of the teacher is attached to the folder; You can also find it in this reposetory:
+https://github.com/Rlss91/hu_morning_W081122MR_react
