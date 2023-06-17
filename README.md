@@ -14,7 +14,7 @@ A web application called "Castle Paint Shop" that simulates online store that us
 2. The project directory is:
 
 ```bash
-  cd react-project-hackeru
+  cd React-Cards-Project-HackerU
 ```
 
 3. Install node_modules:
