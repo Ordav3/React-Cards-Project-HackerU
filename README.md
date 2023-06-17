@@ -1,4 +1,4 @@
-# CastlePaintShop - 
+# CastlePaintShop 
 Site developed by: ordav3@gmail.com
 
 A web application called "Castle Paint Shop" that simulates online store that uses card components for it's products.
