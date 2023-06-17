@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "648e1928c1a480837c23a87f"
+  },
+  "firstName": "Vincent",
+  "lastName": "Van Goch",
+  "phone": "0987654321",
+  "email": "VincentVG@gmail.com",
+  "password": "$2a$10$OZeJKxQm2GePZSlXYESQ5ebdHbZd9tdkts431BSc.AfLwte39MlwO",
+  "imageUrl": "https://cdn.britannica.com/36/69636-050-81A93193/Self-Portrait-artist-panel-board-Vincent-van-Gogh-1887.jpg",
+  "imageAlt": "vincentvangoch",
+  "country": "France",
+  "city": "Paris",
+  "street": "Haogen",
+  "houseNumber": "6",
+  "biz": true,
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-06-17T20:35:52.326Z"
+  },
+  "__v": 0
+}]

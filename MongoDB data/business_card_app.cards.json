@@ -1,0 +1,417 @@
+[{
+  "_id": {
+    "$oid": "6479b547c45c26b4c23c52df"
+  },
+  "title": "A Starry Night",
+  "subTitle": "Vincent Van Gogh",
+  "description": "This oil on wood painting was painted by Vincent Van Gogh in June 1889. This is another world-famous piece and one of Van Gogh’s most well-known works",
+  "state": "Aoslo",
+  "country": "Norway",
+  "city": "Red",
+  "street": "Flower",
+  "houseNumber": "1358",
+  "zipCode": 11258,
+  "phone": "3456744382",
+  "email": "ordav3@gmail.com",
+  "web": "www.starrynight.com",
+  "image": {
+    "url": "https://www.angelaedwards.co.uk/wp-content/uploads/2022/07/Van_Gogh_-_Starry_Night_-_Google_Art_Project-1024x811-1.jpeg",
+    "alt": "Starry Night"
+  },
+  "bizNumber": "1456321",
+  "likes": [],
+  "user_id": {
+    "$oid": "64540ecd49b84778e68825b8"
+  },
+  "createdAt": {
+    "$date": "2023-05-27T11:40:38.341Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "6479b5f2c45c26b4c23c52e0"
+  },
+  "title": "The Scream",
+  "subTitle": "Edvard Munch",
+  "description": "The Scream was painted by Edvard Munch in 1893. The Scream is part of two paintings, one of which sold in 2012 for nearly £74 million in.",
+  "state": "Hebron",
+  "country": "Israel",
+  "city": "Naim",
+  "street": "Bnei",
+  "houseNumber": "4",
+  "zipCode": 99443,
+  "phone": "0438474646",
+  "email": "ordav3@gmail.com",
+  "web": "www.screamthescream.com",
+  "image": {
+    "url": "https://www.angelaedwards.co.uk/wp-content/uploads/2022/07/Edvard_Munch_1893_The_Scream_oil_tempera_and_pastel_on_cardboard_91_x_73_cm_National_Gallery_of_Norway-825x1024-1.jpg",
+    "alt": "The Scream"
+  },
+  "bizNumber": "1582453",
+  "likes": [],
+  "user_id": {
+    "$oid": "64540ecd49b84778e68825b8"
+  },
+  "createdAt": {
+    "$date": "2023-05-27T11:40:38.341Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "6479b709c45c26b4c23c52e1"
+  },
+  "title": "Girl With A Pearl Earring",
+  "subTitle": "Johannes Vermeer",
+  "description": "Johannes Vermeer’s most famous painting is the Girl With a Pearl Earring, The oil on canvas was painted when canvas was becoming popular in the mid-17th century.",
+  "state": "Glock",
+  "country": "Ocean",
+  "city": "Nine Gthin",
+  "street": "Orange",
+  "houseNumber": "3323",
+  "zipCode": 86654,
+  "phone": "043832456",
+  "email": "ordav3@gmail.com",
+  "web": "www.oiloncanvas.com",
+  "image": {
+    "url": "https://www.angelaedwards.co.uk/wp-content/uploads/2022/07/1665_Girl_with_a_Pearl_Earring-865x1024-1.jpg",
+    "alt": "Girl With A Pearl"
+  },
+  "bizNumber": "1793939",
+  "likes": [],
+  "user_id": {
+    "$oid": "64540ecd49b84778e68825b8"
+  },
+  "createdAt": {
+    "$date": "2023-05-27T11:40:38.341Z"
+  },
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "6479b810c45c26b4c23c52e2"
+  },
+  "title": "Birth of Venus",
+  "subTitle": "Sandro Botticelli",
+  "description": "painted this famous painting in 1485, making this one of the oldest paintings to make the list of the most famous pSandro Botticelliaintings of all time.",
+  "state": "Botecia",
+  "country": "Italy",
+  "city": "Magaf",
+  "street": "Pasta",
+  "houseNumber": "765433",
+  "zipCode": 345678,
+  "phone": "04438652456",
+  "email": "ordav3@gmail.com",
+  "web": "www.michelen.com",
+  "image": {
+    "url": "https://www.angelaedwards.co.uk/wp-content/uploads/2022/07/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited-1024x643-1.jpg",
+    "alt": "Birth of Venus"
+  },
+  "bizNumber": "1390123",
+  "likes": [],
+  "user_id": {
+    "$oid": "64540ecd49b84778e68825b8"
+  },
+  "createdAt": {
+    "$date": "2023-05-27T11:40:38.341Z"
+  },
+  "__v": 10
+},
+{
+  "_id": {
+    "$oid": "6479b8e6c45c26b4c23c52e3"
+  },
+  "title": "The Last Supper",
+  "subTitle": "Leonardo da Vinci",
+  "description": "Leonardo da Vinci has plenty of renowned artwork that has become synonymous with the Italian Renaissance and yet The Last Supper stands out among them.",
+  "state": "Leeds",
+  "country": "Kineret",
+  "city": "Nazeret",
+  "street": "Walk",
+  "houseNumber": "2345",
+  "zipCode": 777665,
+  "phone": "035285568",
+  "email": "ordav3@gmail.com",
+  "web": "www.bull.com",
+  "image": {
+    "url": "https://www.angelaedwards.co.uk/wp-content/uploads/2022/07/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpeg",
+    "alt": "Last Supper"
+  },
+  "bizNumber": "1491234",
+  "likes": [],
+  "user_id": {
+    "$oid": "64540ecd49b84778e68825b8"
+  },
+  "createdAt": {
+    "$date": "2023-05-27T11:40:38.341Z"
+  },
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "6479b953c45c26b4c23c52e4"
+  },
+  "title": "The Kiss",
+  "subTitle": "Gustav Klimt",
+  "description": "Leonardo da Vinci has plenty of renowned artwork that has become synonymous with the Italian Renaissance and yet The Last Supper stands out among them.",
+  "state": "Abraham",
+  "country": "Hahistadrut",
+  "city": "3D Floor",
+  "street": "Averbach",
+  "houseNumber": "432223",
+  "zipCode": 55544456,
+  "phone": "085285568",
+  "email": "ordav3@gmail.com",
+  "web": "www.gustav.com",
+  "image": {
+    "url": "https://www.angelaedwards.co.uk/wp-content/uploads/2022/07/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute-1020x1024-1.jpg",
+    "alt": "The Kiss"
+  },
+  "bizNumber": "1599335",
+  "likes": [],
+  "user_id": {
+    "$oid": "64540ecd49b84778e68825b8"
+  },
+  "createdAt": {
+    "$date": "2023-05-27T11:40:38.341Z"
+  },
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "6479ba07c45c26b4c23c52e5"
+  },
+  "title": "Guernica",
+  "subTitle": "Theodorr omerpiTzkelman",
+  "description": "Painted in 1937, the painting is currently viewable at the Museo Reina Sofía in Madrid.",
+  "state": "Minhara",
+  "country": "Carmelio",
+  "city": "Pas Lavan",
+  "street": "Hita",
+  "houseNumber": "87778",
+  "zipCode": 345353,
+  "phone": "0252854568",
+  "email": "ordav3@gmail.com",
+  "web": "www.toyot.com",
+  "image": {
+    "url": "https://www.angelaedwards.co.uk/wp-content/uploads/2022/07/Guernica-1024x511-1.jpg",
+    "alt": "Guernica"
+  },
+  "bizNumber": "1992246",
+  "likes": [],
+  "user_id": {
+    "$oid": "64540ecd49b84778e68825b8"
+  },
+  "createdAt": {
+    "$date": "2023-05-27T11:40:38.341Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "6479bb10c45c26b4c23c52e6"
+  },
+  "title": "Las Meninas",
+  "subTitle": "Diego Velázquez",
+  "description": "Painted by Diego Velázquez in 1656 and can be viewed at the Museo del Prado in Madrid, making Madrid home to two of the ten most popular paintings in the world.",
+  "state": "Minhara",
+  "country": "Carmelio",
+  "city": "Pas Lavan",
+  "street": "Hita",
+  "houseNumber": "87778",
+  "zipCode": 345353,
+  "phone": "0253285568",
+  "email": "ordav3@gmail.com",
+  "web": "www.tanman.com",
+  "image": {
+    "url": "https://www.angelaedwards.co.uk/wp-content/uploads/2022/07/Las_Menina-890x1024-1.png",
+    "alt": "Las Meninas"
+  },
+  "bizNumber": "1332241",
+  "likes": [],
+  "user_id": {
+    "$oid": "64540ecd49b84778e68825b8"
+  },
+  "createdAt": {
+    "$date": "2023-05-27T11:40:38.341Z"
+  },
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "6479bb72c45c26b4c23c52e7"
+  },
+  "title": "Creation of Adam",
+  "subTitle": "Michelangelo",
+  "description": "This woodblock print is an iconic piece of world art thanks to its beautiful composition.",
+  "state": "Car",
+  "country": "Lamp",
+  "city": "Askinson",
+  "street": "Tyre",
+  "houseNumber": "098709",
+  "zipCode": 987654567,
+  "phone": "035285568",
+  "email": "ordav3@gmail.com",
+  "web": "www.adam.com",
+  "image": {
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/191029115234-10-most-famous-paintings-creation-of-adam-restricted.jpg?q=w_4639,h_3099,x_0,y_0,c_fill/w_1280",
+    "alt": "Creation of Adam"
+  },
+  "bizNumber": "1503021",
+  "likes": [],
+  "user_id": {
+    "$oid": "64540ecd49b84778e68825b8"
+  },
+  "createdAt": {
+    "$date": "2023-05-27T11:40:38.341Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "6479bc07c45c26b4c23c52e8"
+  },
+  "title": "The Great Wave Off Kanagawa",
+  "subTitle": "Vzkio Tzunami",
+  "description": "This woodblock print is an iconic piece of world art thanks to its beautiful composition.",
+  "state": "Road",
+  "country": "Sky",
+  "city": "Pkak",
+  "street": "Tree",
+  "houseNumber": "867876",
+  "zipCode": 378766353,
+  "phone": "025285568",
+  "email": "ordav3@gmail.com",
+  "web": "www.tanman.com",
+  "image": {
+    "url": "https://www.boredpanda.com/blog/wp-content/uploads/2021/12/famous-paintings-25-61c97c8de066d__700.jpg",
+    "alt": "The Great Wave Off Kanagawa"
+  },
+  "bizNumber": "1558834",
+  "likes": [],
+  "user_id": {
+    "$oid": "64540ecd49b84778e68825b8"
+  },
+  "createdAt": {
+    "$date": "2023-05-27T11:40:38.341Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "64896a18e517f4a73d78970b"
+  },
+  "title": "The Mona Lisa",
+  "subTitle": "Leonardo De Vinci",
+  "description": "The Mona Lisa is undeniably the most famous painting in the world. Even among those who typically don’t consider themselves art lovers, but the mere mention of the Mona Lisa will always elicit a response.",
+  "state": "Louer",
+  "country": "France",
+  "city": "Pariz",
+  "street": "Artistio",
+  "houseNumber": "543",
+  "zipCode": 98765,
+  "phone": "0533512999",
+  "email": "ordav3@gmail.com",
+  "web": "www.mona.com",
+  "image": {
+    "url": "https://www.angelaedwards.co.uk/wp-content/uploads/2022/07/Mona_Lisa_by_Leonardo_da_Vinci_from_C2RMF_retouched-1-687x1024-1.jpg",
+    "alt": "The Mona Lisa"
+  },
+  "bizNumber": "4326123",
+  "likes": [],
+  "user_id": {
+    "$oid": "64540ecd49b84778e68825b8"
+  },
+  "createdAt": {
+    "$date": "2023-05-27T11:40:38.341Z"
+  },
+  "__v": 16
+},
+{
+  "_id": {
+    "$oid": "64896b14e517f4a73d78970c"
+  },
+  "title": "The Persistence of Memory\n",
+  "subTitle": "Salvador Dali",
+  "description": "Classic surrealism is on display in this artwork by Salvador Dali in 1931. The painting displays limp watches, painted with precision. ",
+  "state": "NY",
+  "country": "USA",
+  "city": "New York",
+  "street": "Brooklyn",
+  "houseNumber": "77",
+  "zipCode": 771777,
+  "phone": "0533456999",
+  "email": "ordav3@gmail.com",
+  "web": "www.prerere.com",
+  "image": {
+    "url": "https://www.angelaedwards.co.uk/wp-content/uploads/2022/07/The_Persistence_of_Memory-1024x754-1.jpeg",
+    "alt": "Dali Time"
+  },
+  "bizNumber": "5448732",
+  "likes": [],
+  "user_id": {
+    "$oid": "64540ecd49b84778e68825b8"
+  },
+  "createdAt": {
+    "$date": "2023-05-27T11:40:38.341Z"
+  },
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "648b64de8d5f2325a37dfbf5"
+  },
+  "title": "The Tower of Babel",
+  "subTitle": "Pieter Bruegel ",
+  "description": "The Tower of Babel in the Kunsthistorisches Museum Vienna is signed and dated 1563. The Museum Boijimans Van Beuningen in Rotterdam also owns a Tower of Babel, which is attributed to Pieter Bruegel the Elder but is not dated.",
+  "state": "Musul",
+  "country": "Iraq",
+  "city": "Bagdad",
+  "street": "Haavot",
+  "houseNumber": "23",
+  "phone": "9876934637",
+  "email": "zaci@gmail.com",
+  "web": "www.safta.com",
+  "image": {
+    "url": "https://www.bruegel2018.at/fileadmin/user_upload/Cat_65-HR-Tower-of-Babel.jpg",
+    "alt": "The Tower of Babel"
+  },
+  "bizNumber": "6502041",
+  "likes": [],
+  "user_id": {
+    "$oid": "6485f154383282f3ffd9d2f4"
+  },
+  "createdAt": {
+    "$date": "2023-06-15T19:22:06.347Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "648d4e46ab2cba688781e855"
+  },
+  "title": "The Old Guitarist",
+  "subTitle": "Picasso",
+  "description": "“The Old Guitarist” has to be one of the most sorrowful paintings to ever capture the art world’s imagination. The figure depicted – gaunt and cross-legged – appears exhausted as he slumps over his brown guitar.",
+  "country": "Israel",
+  "city": "Tiberias",
+  "street": "Rakefet",
+  "houseNumber": "40",
+  "phone": "1234567890",
+  "email": "picasso@gmail.com",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Old_guitarist_chicago.jpg",
+    "alt": "The Old Guitarist paint"
+  },
+  "bizNumber": "6502041",
+  "likes": [],
+  "user_id": {
+    "$oid": "648c99cd3e5a34e22f348c43"
+  },
+  "createdAt": {
+    "$date": "2023-06-17T06:10:14.861Z"
+  },
+  "__v": 8,
+  "web": "https://upload.wikimedia.org/wikipedia/en/b/bc/Old_guitarist_chicago.jpg"
+}]
