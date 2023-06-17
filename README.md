@@ -32,8 +32,8 @@ A web application called "Castle Paint Shop" that simulates online store that us
 ```
 
 **Login - bussines user example for check:
-User Name: VincentVG@gmail.com
 
+User Name: VincentVG@gmail.com
 Password: Aa12345678!
 
 *** The server project of the teacher is attached to the folder; You can also find it in this reposetory:
