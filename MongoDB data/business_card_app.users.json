@@ -19,4 +19,48 @@
     "$date": "2023-06-17T20:35:52.326Z"
   },
   "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648ebfff77b8f128221b962a"
+  },
+  "firstName": "Michaelangelo",
+  "lastName": "Ludovico",
+  "phone": "1234567890",
+  "email": "micahelang@gmail.com",
+  "password": "$2a$10$v9NDcLe.CJBk0gj7d2V3veWA1qU.77Mixawj5AOCsOZ8uqMcEVruW",
+  "imageUrl": "https://cdn.britannica.com/46/75046-050-0973B0E8/Michelangelo.jpg",
+  "imageAlt": "michaelangelo",
+  "country": "Italy",
+  "city": "Rome",
+  "street": "Panteon",
+  "houseNumber": "1",
+  "biz": false,
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2023-06-18T08:27:43.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648ec0ea77b8f128221b963d"
+  },
+  "firstName": "Leonardo",
+  "lastName": "Da vinci",
+  "phone": "7894561230",
+  "email": "leonardodv@gmail.com",
+  "password": "$2a$10$AgsIPtZYZtuAUU0J4BrKXeGd2uXfAD2cEJ7Y7qI6sMj/KifPAugTK",
+  "imageUrl": "https://static.tvtropes.org/pmwiki/pub/images/leonardo_da_vinci_lucan.jpg",
+  "imageAlt": "leonardo",
+  "country": "Italy",
+  "city": "Rome",
+  "street": "Koloseum",
+  "houseNumber": "1",
+  "biz": true,
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2023-06-18T08:31:38.889Z"
+  },
+  "__v": 0
 }]
