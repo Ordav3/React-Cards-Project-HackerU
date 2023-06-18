@@ -1,6 +1,6 @@
 import React from "react";
-import { Typography, Box, Button } from "@mui/material";
-import { Link, Outlet } from "react-router-dom";
+import { Typography, Box } from "@mui/material";
+import { Outlet } from "react-router-dom";
 
 const SandboxPage = () => {
   return (
